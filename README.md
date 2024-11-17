@@ -6,3 +6,6 @@
 
 <h1>중간 화면</h1>
 <img src="https://github.com/user-attachments/assets/4ec3a792-e443-4abf-a13b-2a473a3205a7">
+
+<h1>의류,신발</h1>
+<img src="https://github.com/user-attachments/assets/a661cc25-9090-44fd-97ed-45f89c744edb">
