@@ -9,3 +9,6 @@
 
 <h1>의류,신발</h1>
 <img src="https://github.com/user-attachments/assets/a661cc25-9090-44fd-97ed-45f89c744edb">
+
+<h1>제품 설명</h1>
+<img src="https://github.com/user-attachments/assets/9c9f49f7-b631-4daa-b948-2773cd7b88cd>
