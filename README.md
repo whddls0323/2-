@@ -3,3 +3,6 @@
 
 <h1>회원가입 화면</h1>
 <img src="https://github.com/user-attachments/assets/f7447efd-9fb6-4ea6-8ded-b4d8799013f0">
+
+<h1>중간 화면</h1>
+<img src="https://github.com/user-attachments/assets/4ec3a792-e443-4abf-a13b-2a473a3205a7">
